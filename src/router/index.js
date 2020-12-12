@@ -14,7 +14,7 @@ const Routes = () => {
             <Stack.Navigator headerMode={false} initialRouteName='Landing'>
                 <Stack.Screen name='Landing' component={Landing}></Stack.Screen>
                 <Stack.Screen name='Home' component={Home}></Stack.Screen>
-                <Stack.Screen name='DetailKomik' component={DetailKomik}></Stack.Screen>
+                <Stack.Screen name='DetailKomik' component={DetailKomik} options={{title:'Detail Komik'}}></Stack.Screen>
                 <Stack.Screen name='Chapter' component={Chapter}></Stack.Screen>
             </Stack.Navigator>
         </NavigationContainer>
