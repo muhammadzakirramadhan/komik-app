@@ -2,17 +2,17 @@
 Komik App built with React-native
 
 # Todo
-- [] Bottom Navigation
+- [ ] Bottom Navigation
 - [x] Home
 - [x] Detail Manga
-- [] Read Chapter
-- [] Search Page
-- [] Genre Pages
-- [] Download Manga
-- [] Recent Read
-- [] Manga Screen
-- [] Manhua Screen
-- [] Manhwa Screen
+- [ ] Read Chapter
+- [ ] Search Page
+- [ ] Genre Pages
+- [ ] Download Manga
+- [ ] Recent Read
+- [ ] Manga Screen
+- [ ] Manhua Screen
+- [ ] Manhwa Screen
 
 
 Rest Api :
