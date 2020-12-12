@@ -43,7 +43,7 @@ const Chapter = ({route, navigation}) => {
                 <View style={{width:'100%',height:'100%'}}>
                     {chapterlist?.images ? chapterlist.images.map((value, index) => (
                         <View key={index}>
-                            <Image source={{uri:value.link}} style={{height:1024,width: width}} />
+                            <Image source={{uri:value.link}} style={{height:width/1.19,width: width}} />
                         </View>
                     )) : null}
                 </View>
