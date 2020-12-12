@@ -2,10 +2,10 @@
 Komik App built with React-native
 
 # Todo
-- [ ] Bottom Navigation
+- [x] Bottom Navigation
 - [x] Home
 - [x] Detail Manga
-- [ ] Read Chapter
+- [x] Read Chapter
 - [ ] Search Page
 - [ ] Genre Pages
 - [ ] Download Manga
